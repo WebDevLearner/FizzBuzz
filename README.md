@@ -1,4 +1,4 @@
-FizzBuzz App
+FizzBuzz App With Junit 5 tests
 
 This App prints numbers from 1 to 100. 
 For multiples of "3" it will print "Fizz". 
